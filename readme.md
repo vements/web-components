@@ -26,13 +26,3 @@ And for achievement leaderboards:
 <achievement-leaderboard achievement-id="01HEDQVTQ70000002FFHVXZAJ3">
 </achievement-leaderboard>
 ```
-
-### Next Steps
-
-(for me, not for you)
-
-1.  finish these bits
-2.  use code-gen to create these files
-3.  minify the js
-4.  host the js somewhere
-
